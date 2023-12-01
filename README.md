@@ -1,5 +1,5 @@
 # Cash-Register
-
+// Cash register with quantity and tax
 
 #include <iostream>
 #include <iomanip>
